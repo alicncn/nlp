@@ -10,6 +10,9 @@ NLP analysis pipeline with VADER sentiment analysis and interactive dashboard.
 - TF-IDF keyword extraction
 - Interactive Streamlit dashboard
 
+## ATTENTION!
+### **Download dataset from Kaggle and extract the csv files into /dataset directory!**
+
 ## Installation
 
 ```bash
@@ -34,3 +37,4 @@ streamlit run app.py
 - `analysis.py` - Core analysis and preprocessing
 - `app.py` - Streamlit dashboard
 - `requirements.txt` - Dependencies
+
